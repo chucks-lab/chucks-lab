@@ -1,15 +1,20 @@
 # Dylan Lane · build · teach · hand off
 
-Technical trainer and applied-AI builder in Austin, TX.  
-I use AI to turn domain expertise into tools and curricula teams actually adopt.
+Technical trainer and applied-AI builder in Austin, TX.
+
+**Technical Trainer & SME · Full-Stack EV/ICE Diagnostics · Manufacturing & Field Service · Problem-Solver**
+
+Subject matter expert in vehicle diagnostics and repair, master automotive technician and technical trainer with a decade across the full EV and ICE stack. Notable experience training in industrial power transmission and automation. Applied-AI practitioner, I use my resources to find creative solutions to hard problems at work and across my personal adventures and project.
+
+**Open to:** Claude Corps Fellowship · workforce development & education host orgs · applied-AI roles where teaching and handoff matter.
 
 ## Shipped with Claude
 
 | Project | What it does | Status |
 |---------|--------------|--------|
 | [**claude-bridge-kit**](https://github.com/chucks-lab/claude-bridge-kit) | MCP server that dispatches Claude Code from Cursor — 9 tools, git worktrees, audit log | Public |
+| [**content-studio**](https://github.com/chucks-lab/content-studio) | Agentic course authoring (CAA): 6 quality gates, 21-archetype slides, .pptx/HTML output | Private repo · on request |
 | [**pcm-notes**](https://github.com/chucks-lab/pcm-notes) | Charter-governed multi-agent lab — public governance window | Public |
-| **content-studio** | Agentic course authoring: 6 quality gates, 21-archetype slides, .pptx/HTML output | Private · on request |
 | **motor-starter-xr** | VR sim for 480V motor-starter diagnostics (Unity MCP + Sentis coach) | Private · on request |
 
 ## What I do well
